@@ -1,8 +1,8 @@
 # Coding Challenge
 
-A complied list of coding question to test your coding ability.
+A compiled list of coding questions to test your coding ability.
 
-Handling to topics from string munipulation to recursion.
+Handling topics from string manipulation to recursion.
 
 ![Recrsion](https://media.giphy.com/media/xUOxeQixxVtI8Mfk6Q/giphy.gif)
 
