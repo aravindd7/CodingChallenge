@@ -15,7 +15,7 @@ function palindrome(str) {
         palindromeStr = char + palindromeStr
     }
 
-    return str === palindromeStr ? true : false;
+    return str === palindromeStr;
 }
 
 module.exports = palindrome;
