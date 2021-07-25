@@ -24,4 +24,8 @@ Example
 | [3,5,6,9,11,15,22] | [42] |
 | [3,5,6,9,11,15,22,42] | [] |
 
-Quadratic
+## Complexity
+
+Iterate through the n the size of the array for the outer loop. The inner loop will iterate n + (n - 1) + n + n (n - 2) + ... + 1 = n \*(n + 1)/2. Essential the time complexity is O(n^2) - Quadratic
+
+The space is holding one array with no new element creations. O(1)
