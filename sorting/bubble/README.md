@@ -1,5 +1,7 @@
 # Bubble Sort
 
+Algorithm
+
 1. Traverses the array and compare two adjacent elements.
 1. If they are in the wrong order swap them.
 1. Repeat while array not sorted.
@@ -37,4 +39,4 @@ Only space used is the array size. O(1)
 
 With one while loop we will sort through the array n times. We will also complete a for loop n times for the length of the array.
 
-Quadratic
+Quadratic O(n^2)
