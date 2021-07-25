@@ -1,5 +1,7 @@
 # Sorting Algorithms
 
+![Sorting](https://media.giphy.com/media/2UqWA20weXLPRQW5xQ/giphy.gif)
+
 | Algorithm      |     Time      | Space |
 | -------------- | :-----------: | ----: |
 | Bubble Sort    |    O(n^2)     |  O(1) |
