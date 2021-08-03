@@ -1,5 +1,7 @@
 # Merge Sort
 
+One of the most commonly used sorting algorithm due to the effecient time complexity.
+
 1. We divide the array in two halves
 1. Recursively sort the two halves
 1. Merge them back together
